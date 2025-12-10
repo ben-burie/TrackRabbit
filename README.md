@@ -60,16 +60,16 @@ Audio feedback covers ±10 seconds. Any difference beyond that triggers the phra
 ## 📸 Photos
 
 ### **Device – Front View**
-![Device Front](images/device_front.jpg)
+![Device Front](images/front_view.png)
 
 ### **LCD / Side View**
-![LCD Screen](images/lcd_screen.jpg)
+![LCD Screen](images/side_view.png)
 
 ### **Internal Electronics**
-![Internal Wiring](images/https://github.com/user-attachments/assets/56e7c83b-f456-48c6-9456-e9f9e22dd273)
+![Internal Wiring](images/internal_electronics.png)
 
 ### **Mounted on Tripod at Track**
-![On Track](images/on_track.jpg)
+![On Track](images/tripod_view.png)
 
 ---
 
