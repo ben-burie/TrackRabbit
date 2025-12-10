@@ -63,19 +63,19 @@ Audio feedback covers ±10 seconds. Any difference beyond that triggers the phra
 ![Device Front](images/front_view.png)
 
 ### **LCD / Side View**
-![LCD Screen](images/side_view.png)
+![LCD Screen](images/side_view.jpg)
 
 ### **Internal Electronics**
-![Internal Wiring](images/internal_electronics.png)
+![Internal Wiring](images/internal_electronics.jpg)
 
 ### **Mounted on Tripod at Track**
-![On Track](images/tripod_view.png)
+![On Track](images/tripod_view.jpg)
 
 ---
 
 ## 🔌 Circuit Diagram
 
-![Circuit Diagram](images/circuit_diagram.png)
+![Circuit Diagram](images/circut_diagram.png)
 
 ---
 
