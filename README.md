@@ -28,8 +28,8 @@ Audio feedback covers ±10 seconds. Any difference beyond that triggers the phra
 ### **Audio Feedback**
 - 23 MP3 files generated using BarkAI text-to-speech.
 - Includes:
-  - 10 "seconds ahead"
-  - 10 "seconds behind"
+  - 1-10 seconds ahead
+  - 1-10 seconds behind
   - On pace
   - Way ahead
   - Way behind
