@@ -1,4 +1,4 @@
-# Indoor Track Pacing Device  
+# TrackRabbit - Indoor Track Pacing Device  
 
 *A real-time indoor track pacing device that detects runner passes, tracks lap times, and delivers audio feedback through a speaker.*
 
